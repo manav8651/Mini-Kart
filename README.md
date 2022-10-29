@@ -1,5 +1,4 @@
 # Mini-Kart
-## The APIs you need for any kind of social media websites.
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
