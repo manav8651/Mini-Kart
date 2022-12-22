@@ -38,4 +38,4 @@ npm run dev : For development enviorments
 The local server will start at 127.0.0.1:3000/
 
 ### This Project is also deployed on heroku
-### Heroku Link : https://mini-kart-01.herokuapp.com/
+### Heroku Link : https://mini-kart.onrender.com/
